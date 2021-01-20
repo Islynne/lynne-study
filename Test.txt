@@ -1,0 +1,3 @@
+这里是测试，测试github的pull
+先运行 git fetch origin
+接着合并远端分支到当前分支下： git merge origin/master
